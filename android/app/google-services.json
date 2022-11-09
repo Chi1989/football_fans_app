@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432176214511",
+    "project_id": "football-fans-app",
+    "storage_bucket": "football-fans-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432176214511:android:e8fff9ac35b450da44061a",
+        "android_client_info": {
+          "package_name": "com.example.football_fans_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432176214511-4kvcqde2mr32dejamofkh2oa9jkt08ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-pBiWKj4IzhG3YhIQoyUy648JZ8InYR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432176214511-4kvcqde2mr32dejamofkh2oa9jkt08ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
